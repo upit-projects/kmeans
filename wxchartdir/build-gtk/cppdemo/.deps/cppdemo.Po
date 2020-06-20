@@ -1,0 +1,1107 @@
+cppdemo/cppdemo.o: ../cppdemo/cppdemo.cpp /usr/include/stdc-predef.h \
+ /usr/include/c++/9/iostream \
+ /usr/include/c++/9/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/bits/wordsize.h \
+ /usr/include/c++/9/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/long-double.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /usr/include/c++/9/x86_64-redhat-linux/bits/cpu_defines.h \
+ /usr/include/c++/9/ostream /usr/include/c++/9/ios \
+ /usr/include/c++/9/iosfwd /usr/include/c++/9/bits/stringfwd.h \
+ /usr/include/c++/9/bits/memoryfwd.h /usr/include/c++/9/bits/postypes.h \
+ /usr/include/c++/9/cwchar /usr/include/wchar.h \
+ /usr/include/bits/libc-header-start.h /usr/include/bits/floatn.h \
+ /usr/include/bits/floatn-common.h \
+ /usr/lib/gcc/x86_64-redhat-linux/9/include/stddef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/9/include/stdarg.h \
+ /usr/include/bits/wchar.h /usr/include/bits/types/wint_t.h \
+ /usr/include/bits/types/mbstate_t.h \
+ /usr/include/bits/types/__mbstate_t.h /usr/include/bits/types/__FILE.h \
+ /usr/include/bits/types/FILE.h /usr/include/bits/types/locale_t.h \
+ /usr/include/bits/types/__locale_t.h /usr/include/c++/9/exception \
+ /usr/include/c++/9/bits/exception.h \
+ /usr/include/c++/9/bits/exception_ptr.h \
+ /usr/include/c++/9/bits/exception_defines.h \
+ /usr/include/c++/9/bits/cxxabi_init_exception.h \
+ /usr/include/c++/9/typeinfo /usr/include/c++/9/bits/hash_bytes.h \
+ /usr/include/c++/9/new /usr/include/c++/9/bits/nested_exception.h \
+ /usr/include/c++/9/bits/move.h /usr/include/c++/9/bits/concept_check.h \
+ /usr/include/c++/9/type_traits /usr/include/c++/9/bits/char_traits.h \
+ /usr/include/c++/9/bits/stl_algobase.h \
+ /usr/include/c++/9/bits/functexcept.h \
+ /usr/include/c++/9/bits/cpp_type_traits.h \
+ /usr/include/c++/9/ext/type_traits.h \
+ /usr/include/c++/9/ext/numeric_traits.h \
+ /usr/include/c++/9/bits/stl_pair.h \
+ /usr/include/c++/9/bits/stl_iterator_base_types.h \
+ /usr/include/c++/9/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/9/debug/assertions.h \
+ /usr/include/c++/9/bits/stl_iterator.h \
+ /usr/include/c++/9/bits/ptr_traits.h /usr/include/c++/9/debug/debug.h \
+ /usr/include/c++/9/bits/predefined_ops.h /usr/include/c++/9/cstdint \
+ /usr/lib/gcc/x86_64-redhat-linux/9/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/types.h \
+ /usr/include/bits/timesize.h /usr/include/bits/typesizes.h \
+ /usr/include/bits/time64.h /usr/include/bits/stdint-intn.h \
+ /usr/include/bits/stdint-uintn.h /usr/include/c++/9/bits/localefwd.h \
+ /usr/include/c++/9/x86_64-redhat-linux/bits/c++locale.h \
+ /usr/include/c++/9/clocale /usr/include/locale.h \
+ /usr/include/bits/locale.h /usr/include/c++/9/cctype \
+ /usr/include/ctype.h /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/uintn-identity.h \
+ /usr/include/c++/9/bits/ios_base.h /usr/include/c++/9/ext/atomicity.h \
+ /usr/include/c++/9/x86_64-redhat-linux/bits/gthr.h \
+ /usr/include/c++/9/x86_64-redhat-linux/bits/gthr-default.h \
+ /usr/include/pthread.h /usr/include/sched.h \
+ /usr/include/bits/types/time_t.h \
+ /usr/include/bits/types/struct_timespec.h /usr/include/bits/sched.h \
+ /usr/include/bits/types/struct_sched_param.h /usr/include/bits/cpu-set.h \
+ /usr/include/time.h /usr/include/bits/time.h /usr/include/bits/timex.h \
+ /usr/include/bits/types/struct_timeval.h \
+ /usr/include/bits/types/clock_t.h /usr/include/bits/types/struct_tm.h \
+ /usr/include/bits/types/clockid_t.h /usr/include/bits/types/timer_t.h \
+ /usr/include/bits/types/struct_itimerspec.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/thread-shared-types.h \
+ /usr/include/bits/pthreadtypes-arch.h /usr/include/bits/setjmp.h \
+ /usr/include/c++/9/x86_64-redhat-linux/bits/atomic_word.h \
+ /usr/include/c++/9/bits/locale_classes.h /usr/include/c++/9/string \
+ /usr/include/c++/9/bits/allocator.h \
+ /usr/include/c++/9/x86_64-redhat-linux/bits/c++allocator.h \
+ /usr/include/c++/9/ext/new_allocator.h \
+ /usr/include/c++/9/bits/ostream_insert.h \
+ /usr/include/c++/9/bits/cxxabi_forced.h \
+ /usr/include/c++/9/bits/stl_function.h \
+ /usr/include/c++/9/backward/binders.h \
+ /usr/include/c++/9/bits/range_access.h \
+ /usr/include/c++/9/initializer_list \
+ /usr/include/c++/9/bits/basic_string.h \
+ /usr/include/c++/9/ext/alloc_traits.h \
+ /usr/include/c++/9/bits/alloc_traits.h \
+ /usr/include/c++/9/ext/string_conversions.h /usr/include/c++/9/cstdlib \
+ /usr/include/stdlib.h /usr/include/bits/waitflags.h \
+ /usr/include/bits/waitstatus.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/types/sigset_t.h /usr/include/bits/types/__sigset_t.h \
+ /usr/include/alloca.h /usr/include/bits/stdlib-bsearch.h \
+ /usr/include/bits/stdlib-float.h /usr/include/c++/9/bits/std_abs.h \
+ /usr/include/c++/9/cstdio /usr/include/stdio.h \
+ /usr/include/bits/types/__fpos_t.h /usr/include/bits/types/__fpos64_t.h \
+ /usr/include/bits/types/struct_FILE.h \
+ /usr/include/bits/types/cookie_io_functions_t.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h /usr/include/c++/9/cerrno /usr/include/errno.h \
+ /usr/include/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
+ /usr/include/asm-generic/errno-base.h /usr/include/bits/types/error_t.h \
+ /usr/include/c++/9/bits/functional_hash.h \
+ /usr/include/c++/9/bits/basic_string.tcc \
+ /usr/include/c++/9/bits/locale_classes.tcc \
+ /usr/include/c++/9/system_error \
+ /usr/include/c++/9/x86_64-redhat-linux/bits/error_constants.h \
+ /usr/include/c++/9/stdexcept /usr/include/c++/9/streambuf \
+ /usr/include/c++/9/bits/streambuf.tcc \
+ /usr/include/c++/9/bits/basic_ios.h \
+ /usr/include/c++/9/bits/locale_facets.h /usr/include/c++/9/cwctype \
+ /usr/include/wctype.h /usr/include/bits/wctype-wchar.h \
+ /usr/include/c++/9/x86_64-redhat-linux/bits/ctype_base.h \
+ /usr/include/c++/9/bits/streambuf_iterator.h \
+ /usr/include/c++/9/x86_64-redhat-linux/bits/ctype_inline.h \
+ /usr/include/c++/9/bits/locale_facets.tcc \
+ /usr/include/c++/9/bits/basic_ios.tcc \
+ /usr/include/c++/9/bits/ostream.tcc /usr/include/c++/9/istream \
+ /usr/include/c++/9/bits/istream.tcc ../cppdemo/cppdemo_gen.h \
+ ../cppdemo/cppdemo_inc.h ../cppdemo/anglepie/anglepie.cpp \
+ ../include/chartdir.h /usr/include/string.h /usr/include/strings.h \
+ ../include/bchartdir.h ../include/memblock.h \
+ ../cppdemo/angularpointer/angularpointer.cpp \
+ ../cppdemo/angularpointer2/angularpointer2.cpp \
+ ../cppdemo/arealine/arealine.cpp ../cppdemo/axisscale/axisscale.cpp \
+ ../cppdemo/background/background.cpp ../cppdemo/barlabel/barlabel.cpp \
+ ../cppdemo/binaryseries/binaryseries.cpp \
+ ../cppdemo/blackhbarmeter/blackhbarmeter.cpp \
+ ../cppdemo/blackhlinearmeter/blackhlinearmeter.cpp \
+ ../cppdemo/blackroundmeter/blackroundmeter.cpp \
+ ../cppdemo/blacksemicirclemeter/blacksemicirclemeter.cpp \
+ ../cppdemo/blackvbarmeter/blackvbarmeter.cpp \
+ ../cppdemo/blackvlinearmeter/blackvlinearmeter.cpp \
+ ../cppdemo/boxwhisker/boxwhisker.cpp \
+ ../cppdemo/boxwhisker2/boxwhisker2.cpp ../cppdemo/bubble/bubble.cpp \
+ ../cppdemo/bubblescale/bubblescale.cpp \
+ ../cppdemo/builtinsymbols/builtinsymbols.cpp \
+ ../cppdemo/candlestick/candlestick.cpp \
+ ../cppdemo/circlelabelpie/circlelabelpie.cpp \
+ ../cppdemo/colorbar/colorbar.cpp ../cppdemo/colorbar2/colorbar2.cpp \
+ ../cppdemo/colorgantt/colorgantt.cpp \
+ ../cppdemo/colorhbarmeter/colorhbarmeter.cpp \
+ ../cppdemo/colorhlinearmeter/colorhlinearmeter.cpp \
+ ../cppdemo/colorroundmeter/colorroundmeter.cpp \
+ ../cppdemo/colorsemicirclemeter/colorsemicirclemeter.cpp \
+ ../cppdemo/colorvbarmeter/colorvbarmeter.cpp \
+ ../cppdemo/colorvlinearmeter/colorvlinearmeter.cpp \
+ ../cppdemo/compactline/compactline.cpp \
+ ../cppdemo/concentric/concentric.cpp ../cppdemo/cone/cone.cpp \
+ ../cppdemo/confidenceband/confidenceband.cpp \
+ ../cppdemo/contour/contour.cpp /usr/include/c++/9/math.h \
+ /usr/include/c++/9/cmath /usr/include/math.h \
+ /usr/include/bits/math-vector.h /usr/include/bits/libm-simd-decl-stubs.h \
+ /usr/include/bits/flt-eval-method.h /usr/include/bits/fp-logb.h \
+ /usr/include/bits/fp-fast.h \
+ /usr/include/bits/mathcalls-helper-functions.h \
+ /usr/include/bits/mathcalls.h /usr/include/bits/mathcalls-narrow.h \
+ /usr/include/bits/iscanonical.h /usr/include/bits/mathinline.h \
+ ../cppdemo/contourcolor/contourcolor.cpp \
+ ../cppdemo/contourinterpolate/contourinterpolate.cpp \
+ ../cppdemo/contourlegend/contourlegend.cpp \
+ ../cppdemo/curvefitting/curvefitting.cpp \
+ ../cppdemo/customsymbolline/customsymbolline.cpp \
+ ../cppdemo/cylinderbar/cylinderbar.cpp \
+ ../cppdemo/cylinderlightbar/cylinderlightbar.cpp \
+ ../cppdemo/datatable/datatable.cpp ../cppdemo/datatable2/datatable2.cpp \
+ ../cppdemo/deptharea/deptharea.cpp ../cppdemo/depthbar/depthbar.cpp \
+ ../cppdemo/donut/donut.cpp ../cppdemo/donutshading/donutshading.cpp \
+ ../cppdemo/donutwidth/donutwidth.cpp ../cppdemo/dualhbar/dualhbar.cpp \
+ ../cppdemo/dualxaxis/dualxaxis.cpp ../cppdemo/dualyaxis/dualyaxis.cpp \
+ ../cppdemo/enhancedarea/enhancedarea.cpp ../cppdemo/errline/errline.cpp \
+ ../cppdemo/explodedpie/explodedpie.cpp ../cppdemo/finance/finance.cpp \
+ ../include/FinanceChart.h ../include/chartdir.h \
+ /usr/include/c++/9/vector /usr/include/c++/9/bits/stl_construct.h \
+ /usr/include/c++/9/bits/stl_uninitialized.h \
+ /usr/include/c++/9/bits/stl_vector.h \
+ /usr/include/c++/9/bits/stl_bvector.h /usr/include/c++/9/bits/vector.tcc \
+ ../cppdemo/finance2/finance2.cpp \
+ ../cppdemo/financesymbols/financesymbols.cpp \
+ ../cppdemo/floatingbox/floatingbox.cpp ../cppdemo/fontpie/fontpie.cpp \
+ ../cppdemo/fontxy/fontxy.cpp ../cppdemo/fourq/fourq.cpp \
+ ../cppdemo/funnel/funnel.cpp ../cppdemo/gantt/gantt.cpp \
+ ../cppdemo/gapbar/gapbar.cpp ../cppdemo/glasslightbar/glasslightbar.cpp \
+ ../cppdemo/glassmultibar/glassmultibar.cpp \
+ ../cppdemo/gradientbar/gradientbar.cpp \
+ ../cppdemo/gradientmultibar/gradientmultibar.cpp \
+ ../cppdemo/hbar/hbar.cpp ../cppdemo/hbarmeter/hbarmeter.cpp \
+ ../cppdemo/hbarmeterorientation/hbarmeterorientation.cpp \
+ ../cppdemo/hboxwhisker/hboxwhisker.cpp \
+ ../cppdemo/histogram/histogram.cpp \
+ ../cppdemo/hlinearmeter/hlinearmeter.cpp \
+ ../cppdemo/hlinearmeterorientation/hlinearmeterorientation.cpp \
+ ../cppdemo/hloc/hloc.cpp ../cppdemo/iconameter/iconameter.cpp \
+ ../cppdemo/icondonut/icondonut.cpp ../cppdemo/iconpie/iconpie.cpp \
+ ../cppdemo/iconpie2/iconpie2.cpp ../cppdemo/layergantt/layergantt.cpp \
+ ../cppdemo/legendpie/legendpie.cpp ../cppdemo/legendpie2/legendpie2.cpp \
+ ../cppdemo/linearzonemeter/linearzonemeter.cpp \
+ ../cppdemo/linecompare/linecompare.cpp ../cppdemo/linefill/linefill.cpp \
+ ../cppdemo/logaxis/logaxis.cpp ../cppdemo/markbar/markbar.cpp \
+ ../cppdemo/markzone/markzone.cpp ../cppdemo/markzone2/markzone2.cpp \
+ ../cppdemo/missingpoints/missingpoints.cpp \
+ ../cppdemo/multiaxes/multiaxes.cpp ../cppdemo/multibar/multibar.cpp \
+ ../cppdemo/multicylinder/multicylinder.cpp \
+ ../cppdemo/multidepthpie/multidepthpie.cpp \
+ ../cppdemo/multihmeter/multihmeter.cpp \
+ ../cppdemo/multiline/multiline.cpp ../cppdemo/multiline2/multiline2.cpp \
+ ../cppdemo/multipie/multipie.cpp ../cppdemo/multiradar/multiradar.cpp \
+ ../cppdemo/multishapebar/multishapebar.cpp \
+ ../cppdemo/multistackbar/multistackbar.cpp \
+ ../cppdemo/multisymbolline/multisymbolline.cpp \
+ ../cppdemo/multivmeter/multivmeter.cpp \
+ ../cppdemo/neonroundmeter/neonroundmeter.cpp \
+ ../cppdemo/overlapbar/overlapbar.cpp \
+ ../cppdemo/paramcurve/paramcurve.cpp ../cppdemo/pareto/pareto.cpp \
+ ../cppdemo/patternarea/patternarea.cpp \
+ ../cppdemo/percentarea/percentarea.cpp \
+ ../cppdemo/percentbar/percentbar.cpp \
+ ../cppdemo/pieshading/pieshading.cpp ../cppdemo/polararea/polararea.cpp \
+ ../cppdemo/polarbubble/polarbubble.cpp \
+ ../cppdemo/polarline/polarline.cpp \
+ ../cppdemo/polarscatter/polarscatter.cpp \
+ ../cppdemo/polarspline/polarspline.cpp \
+ ../cppdemo/polarvector/polarvector.cpp \
+ ../cppdemo/polarzones/polarzones.cpp \
+ ../cppdemo/polarzones2/polarzones2.cpp \
+ ../cppdemo/polygonbar/polygonbar.cpp ../cppdemo/posnegbar/posnegbar.cpp \
+ ../cppdemo/posnegwaterfall/posnegwaterfall.cpp \
+ ../cppdemo/pyramidelevation/pyramidelevation.cpp \
+ ../cppdemo/pyramidgap/pyramidgap.cpp \
+ ../cppdemo/pyramidrotation/pyramidrotation.cpp \
+ ../cppdemo/rectangularmeter/rectangularmeter.cpp \
+ ../cppdemo/rose/rose.cpp ../cppdemo/rotatedarea/rotatedarea.cpp \
+ ../cppdemo/rotatedline/rotatedline.cpp \
+ ../cppdemo/rotatedpyramid/rotatedpyramid.cpp \
+ ../cppdemo/roundmeter/roundmeter.cpp \
+ ../cppdemo/roundmeterreadout/roundmeterreadout.cpp \
+ ../cppdemo/scatter/scatter.cpp \
+ ../cppdemo/scattercontour/scattercontour.cpp \
+ ../cppdemo/scatterlabels/scatterlabels.cpp \
+ ../cppdemo/scattersurface/scattersurface.cpp \
+ ../cppdemo/scattersymbols/scattersymbols.cpp \
+ ../cppdemo/scattertrend/scattertrend.cpp \
+ ../cppdemo/semicirclemeter/semicirclemeter.cpp \
+ ../cppdemo/semicirclemeterreadout/semicirclemeterreadout.cpp \
+ ../cppdemo/shadowpie/shadowpie.cpp \
+ ../cppdemo/sidelabelpie/sidelabelpie.cpp \
+ ../cppdemo/simplearea/simplearea.cpp ../cppdemo/simplebar/simplebar.cpp \
+ ../cppdemo/simplebar2/simplebar2.cpp \
+ ../cppdemo/simpleline/simpleline.cpp ../cppdemo/simplepie/simplepie.cpp \
+ ../cppdemo/simplepyramid/simplepyramid.cpp \
+ ../cppdemo/simpleradar/simpleradar.cpp \
+ ../cppdemo/smoothcontour/smoothcontour.cpp \
+ ../cppdemo/softlightbar/softlightbar.cpp \
+ ../cppdemo/softmultibar/softmultibar.cpp \
+ ../cppdemo/splineline/splineline.cpp \
+ ../cppdemo/squareameter/squareameter.cpp \
+ ../cppdemo/stackedarea/stackedarea.cpp \
+ ../cppdemo/stackedbar/stackedbar.cpp \
+ ../cppdemo/stackradar/stackradar.cpp ../cppdemo/stackrose/stackrose.cpp \
+ ../cppdemo/stepline/stepline.cpp ../cppdemo/surface/surface.cpp \
+ ../cppdemo/surface2/surface2.cpp ../cppdemo/surface3/surface3.cpp \
+ ../cppdemo/surfaceaxis/surfaceaxis.cpp \
+ ../cppdemo/surfacelighting/surfacelighting.cpp \
+ ../cppdemo/surfaceperspective/surfaceperspective.cpp \
+ ../cppdemo/surfaceshading/surfaceshading.cpp \
+ ../cppdemo/surfacewireframe/surfacewireframe.cpp \
+ ../cppdemo/symbolline/symbolline.cpp \
+ ../cppdemo/symbolline2/symbolline2.cpp \
+ ../cppdemo/texturedonut/texturedonut.cpp \
+ ../cppdemo/threedanglepie/threedanglepie.cpp \
+ ../cppdemo/threedarea/threedarea.cpp ../cppdemo/threedbar/threedbar.cpp \
+ ../cppdemo/threedbubble/threedbubble.cpp \
+ ../cppdemo/threedbubble2/threedbubble2.cpp \
+ ../cppdemo/threedbubble3/threedbubble3.cpp \
+ ../cppdemo/threeddepthpie/threeddepthpie.cpp \
+ ../cppdemo/threeddonut/threeddonut.cpp \
+ ../cppdemo/threeddonutshading/threeddonutshading.cpp \
+ ../cppdemo/threedline/threedline.cpp ../cppdemo/threedpie/threedpie.cpp \
+ ../cppdemo/threedpieshading/threedpieshading.cpp \
+ ../cppdemo/threedpyramid/threedpyramid.cpp \
+ ../cppdemo/threedscatter/threedscatter.cpp \
+ ../cppdemo/threedscatter2/threedscatter2.cpp \
+ ../cppdemo/threedscatteraxis/threedscatteraxis.cpp \
+ ../cppdemo/threedscattergroups/threedscattergroups.cpp \
+ ../cppdemo/threedstackarea/threedstackarea.cpp \
+ ../cppdemo/ticks/ticks.cpp ../cppdemo/trendline/trendline.cpp \
+ ../cppdemo/unevenpoints/unevenpoints.cpp \
+ ../cppdemo/varwidthbar/varwidthbar.cpp \
+ ../cppdemo/vbarmeter/vbarmeter.cpp \
+ ../cppdemo/vbarmeterorientation/vbarmeterorientation.cpp \
+ ../cppdemo/vector/vector.cpp ../cppdemo/vlinearmeter/vlinearmeter.cpp \
+ ../cppdemo/vlinearmeterorientation/vlinearmeterorientation.cpp \
+ ../cppdemo/waterfall/waterfall.cpp \
+ ../cppdemo/whitehbarmeter/whitehbarmeter.cpp \
+ ../cppdemo/whitehlinearmeter/whitehlinearmeter.cpp \
+ ../cppdemo/whiteroundmeter/whiteroundmeter.cpp \
+ ../cppdemo/whitesemicirclemeter/whitesemicirclemeter.cpp \
+ ../cppdemo/whitevbarmeter/whitevbarmeter.cpp \
+ ../cppdemo/whitevlinearmeter/whitevlinearmeter.cpp \
+ ../cppdemo/xyline/xyline.cpp ../cppdemo/xzonecolor/xzonecolor.cpp \
+ ../cppdemo/yzonecolor/yzonecolor.cpp
+
+/usr/include/stdc-predef.h:
+
+/usr/include/c++/9/iostream:
+
+/usr/include/c++/9/x86_64-redhat-linux/bits/c++config.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/c++/9/x86_64-redhat-linux/bits/os_defines.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/long-double.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/c++/9/x86_64-redhat-linux/bits/cpu_defines.h:
+
+/usr/include/c++/9/ostream:
+
+/usr/include/c++/9/ios:
+
+/usr/include/c++/9/iosfwd:
+
+/usr/include/c++/9/bits/stringfwd.h:
+
+/usr/include/c++/9/bits/memoryfwd.h:
+
+/usr/include/c++/9/bits/postypes.h:
+
+/usr/include/c++/9/cwchar:
+
+/usr/include/wchar.h:
+
+/usr/include/bits/libc-header-start.h:
+
+/usr/include/bits/floatn.h:
+
+/usr/include/bits/floatn-common.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/9/include/stddef.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/9/include/stdarg.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/include/bits/types/wint_t.h:
+
+/usr/include/bits/types/mbstate_t.h:
+
+/usr/include/bits/types/__mbstate_t.h:
+
+/usr/include/bits/types/__FILE.h:
+
+/usr/include/bits/types/FILE.h:
+
+/usr/include/bits/types/locale_t.h:
+
+/usr/include/bits/types/__locale_t.h:
+
+/usr/include/c++/9/exception:
+
+/usr/include/c++/9/bits/exception.h:
+
+/usr/include/c++/9/bits/exception_ptr.h:
+
+/usr/include/c++/9/bits/exception_defines.h:
+
+/usr/include/c++/9/bits/cxxabi_init_exception.h:
+
+/usr/include/c++/9/typeinfo:
+
+/usr/include/c++/9/bits/hash_bytes.h:
+
+/usr/include/c++/9/new:
+
+/usr/include/c++/9/bits/nested_exception.h:
+
+/usr/include/c++/9/bits/move.h:
+
+/usr/include/c++/9/bits/concept_check.h:
+
+/usr/include/c++/9/type_traits:
+
+/usr/include/c++/9/bits/char_traits.h:
+
+/usr/include/c++/9/bits/stl_algobase.h:
+
+/usr/include/c++/9/bits/functexcept.h:
+
+/usr/include/c++/9/bits/cpp_type_traits.h:
+
+/usr/include/c++/9/ext/type_traits.h:
+
+/usr/include/c++/9/ext/numeric_traits.h:
+
+/usr/include/c++/9/bits/stl_pair.h:
+
+/usr/include/c++/9/bits/stl_iterator_base_types.h:
+
+/usr/include/c++/9/bits/stl_iterator_base_funcs.h:
+
+/usr/include/c++/9/debug/assertions.h:
+
+/usr/include/c++/9/bits/stl_iterator.h:
+
+/usr/include/c++/9/bits/ptr_traits.h:
+
+/usr/include/c++/9/debug/debug.h:
+
+/usr/include/c++/9/bits/predefined_ops.h:
+
+/usr/include/c++/9/cstdint:
+
+/usr/lib/gcc/x86_64-redhat-linux/9/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/timesize.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/bits/time64.h:
+
+/usr/include/bits/stdint-intn.h:
+
+/usr/include/bits/stdint-uintn.h:
+
+/usr/include/c++/9/bits/localefwd.h:
+
+/usr/include/c++/9/x86_64-redhat-linux/bits/c++locale.h:
+
+/usr/include/c++/9/clocale:
+
+/usr/include/locale.h:
+
+/usr/include/bits/locale.h:
+
+/usr/include/c++/9/cctype:
+
+/usr/include/ctype.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/uintn-identity.h:
+
+/usr/include/c++/9/bits/ios_base.h:
+
+/usr/include/c++/9/ext/atomicity.h:
+
+/usr/include/c++/9/x86_64-redhat-linux/bits/gthr.h:
+
+/usr/include/c++/9/x86_64-redhat-linux/bits/gthr-default.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/bits/types/time_t.h:
+
+/usr/include/bits/types/struct_timespec.h:
+
+/usr/include/bits/sched.h:
+
+/usr/include/bits/types/struct_sched_param.h:
+
+/usr/include/bits/cpu-set.h:
+
+/usr/include/time.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/bits/timex.h:
+
+/usr/include/bits/types/struct_timeval.h:
+
+/usr/include/bits/types/clock_t.h:
+
+/usr/include/bits/types/struct_tm.h:
+
+/usr/include/bits/types/clockid_t.h:
+
+/usr/include/bits/types/timer_t.h:
+
+/usr/include/bits/types/struct_itimerspec.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/bits/thread-shared-types.h:
+
+/usr/include/bits/pthreadtypes-arch.h:
+
+/usr/include/bits/setjmp.h:
+
+/usr/include/c++/9/x86_64-redhat-linux/bits/atomic_word.h:
+
+/usr/include/c++/9/bits/locale_classes.h:
+
+/usr/include/c++/9/string:
+
+/usr/include/c++/9/bits/allocator.h:
+
+/usr/include/c++/9/x86_64-redhat-linux/bits/c++allocator.h:
+
+/usr/include/c++/9/ext/new_allocator.h:
+
+/usr/include/c++/9/bits/ostream_insert.h:
+
+/usr/include/c++/9/bits/cxxabi_forced.h:
+
+/usr/include/c++/9/bits/stl_function.h:
+
+/usr/include/c++/9/backward/binders.h:
+
+/usr/include/c++/9/bits/range_access.h:
+
+/usr/include/c++/9/initializer_list:
+
+/usr/include/c++/9/bits/basic_string.h:
+
+/usr/include/c++/9/ext/alloc_traits.h:
+
+/usr/include/c++/9/bits/alloc_traits.h:
+
+/usr/include/c++/9/ext/string_conversions.h:
+
+/usr/include/c++/9/cstdlib:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/types/sigset_t.h:
+
+/usr/include/bits/types/__sigset_t.h:
+
+/usr/include/alloca.h:
+
+/usr/include/bits/stdlib-bsearch.h:
+
+/usr/include/bits/stdlib-float.h:
+
+/usr/include/c++/9/bits/std_abs.h:
+
+/usr/include/c++/9/cstdio:
+
+/usr/include/stdio.h:
+
+/usr/include/bits/types/__fpos_t.h:
+
+/usr/include/bits/types/__fpos64_t.h:
+
+/usr/include/bits/types/struct_FILE.h:
+
+/usr/include/bits/types/cookie_io_functions_t.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+/usr/include/c++/9/cerrno:
+
+/usr/include/errno.h:
+
+/usr/include/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/asm/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+/usr/include/bits/types/error_t.h:
+
+/usr/include/c++/9/bits/functional_hash.h:
+
+/usr/include/c++/9/bits/basic_string.tcc:
+
+/usr/include/c++/9/bits/locale_classes.tcc:
+
+/usr/include/c++/9/system_error:
+
+/usr/include/c++/9/x86_64-redhat-linux/bits/error_constants.h:
+
+/usr/include/c++/9/stdexcept:
+
+/usr/include/c++/9/streambuf:
+
+/usr/include/c++/9/bits/streambuf.tcc:
+
+/usr/include/c++/9/bits/basic_ios.h:
+
+/usr/include/c++/9/bits/locale_facets.h:
+
+/usr/include/c++/9/cwctype:
+
+/usr/include/wctype.h:
+
+/usr/include/bits/wctype-wchar.h:
+
+/usr/include/c++/9/x86_64-redhat-linux/bits/ctype_base.h:
+
+/usr/include/c++/9/bits/streambuf_iterator.h:
+
+/usr/include/c++/9/x86_64-redhat-linux/bits/ctype_inline.h:
+
+/usr/include/c++/9/bits/locale_facets.tcc:
+
+/usr/include/c++/9/bits/basic_ios.tcc:
+
+/usr/include/c++/9/bits/ostream.tcc:
+
+/usr/include/c++/9/istream:
+
+/usr/include/c++/9/bits/istream.tcc:
+
+../cppdemo/cppdemo_gen.h:
+
+../cppdemo/cppdemo_inc.h:
+
+../cppdemo/anglepie/anglepie.cpp:
+
+../include/chartdir.h:
+
+/usr/include/string.h:
+
+/usr/include/strings.h:
+
+../include/bchartdir.h:
+
+../include/memblock.h:
+
+../cppdemo/angularpointer/angularpointer.cpp:
+
+../cppdemo/angularpointer2/angularpointer2.cpp:
+
+../cppdemo/arealine/arealine.cpp:
+
+../cppdemo/axisscale/axisscale.cpp:
+
+../cppdemo/background/background.cpp:
+
+../cppdemo/barlabel/barlabel.cpp:
+
+../cppdemo/binaryseries/binaryseries.cpp:
+
+../cppdemo/blackhbarmeter/blackhbarmeter.cpp:
+
+../cppdemo/blackhlinearmeter/blackhlinearmeter.cpp:
+
+../cppdemo/blackroundmeter/blackroundmeter.cpp:
+
+../cppdemo/blacksemicirclemeter/blacksemicirclemeter.cpp:
+
+../cppdemo/blackvbarmeter/blackvbarmeter.cpp:
+
+../cppdemo/blackvlinearmeter/blackvlinearmeter.cpp:
+
+../cppdemo/boxwhisker/boxwhisker.cpp:
+
+../cppdemo/boxwhisker2/boxwhisker2.cpp:
+
+../cppdemo/bubble/bubble.cpp:
+
+../cppdemo/bubblescale/bubblescale.cpp:
+
+../cppdemo/builtinsymbols/builtinsymbols.cpp:
+
+../cppdemo/candlestick/candlestick.cpp:
+
+../cppdemo/circlelabelpie/circlelabelpie.cpp:
+
+../cppdemo/colorbar/colorbar.cpp:
+
+../cppdemo/colorbar2/colorbar2.cpp:
+
+../cppdemo/colorgantt/colorgantt.cpp:
+
+../cppdemo/colorhbarmeter/colorhbarmeter.cpp:
+
+../cppdemo/colorhlinearmeter/colorhlinearmeter.cpp:
+
+../cppdemo/colorroundmeter/colorroundmeter.cpp:
+
+../cppdemo/colorsemicirclemeter/colorsemicirclemeter.cpp:
+
+../cppdemo/colorvbarmeter/colorvbarmeter.cpp:
+
+../cppdemo/colorvlinearmeter/colorvlinearmeter.cpp:
+
+../cppdemo/compactline/compactline.cpp:
+
+../cppdemo/concentric/concentric.cpp:
+
+../cppdemo/cone/cone.cpp:
+
+../cppdemo/confidenceband/confidenceband.cpp:
+
+../cppdemo/contour/contour.cpp:
+
+/usr/include/c++/9/math.h:
+
+/usr/include/c++/9/cmath:
+
+/usr/include/math.h:
+
+/usr/include/bits/math-vector.h:
+
+/usr/include/bits/libm-simd-decl-stubs.h:
+
+/usr/include/bits/flt-eval-method.h:
+
+/usr/include/bits/fp-logb.h:
+
+/usr/include/bits/fp-fast.h:
+
+/usr/include/bits/mathcalls-helper-functions.h:
+
+/usr/include/bits/mathcalls.h:
+
+/usr/include/bits/mathcalls-narrow.h:
+
+/usr/include/bits/iscanonical.h:
+
+/usr/include/bits/mathinline.h:
+
+../cppdemo/contourcolor/contourcolor.cpp:
+
+../cppdemo/contourinterpolate/contourinterpolate.cpp:
+
+../cppdemo/contourlegend/contourlegend.cpp:
+
+../cppdemo/curvefitting/curvefitting.cpp:
+
+../cppdemo/customsymbolline/customsymbolline.cpp:
+
+../cppdemo/cylinderbar/cylinderbar.cpp:
+
+../cppdemo/cylinderlightbar/cylinderlightbar.cpp:
+
+../cppdemo/datatable/datatable.cpp:
+
+../cppdemo/datatable2/datatable2.cpp:
+
+../cppdemo/deptharea/deptharea.cpp:
+
+../cppdemo/depthbar/depthbar.cpp:
+
+../cppdemo/donut/donut.cpp:
+
+../cppdemo/donutshading/donutshading.cpp:
+
+../cppdemo/donutwidth/donutwidth.cpp:
+
+../cppdemo/dualhbar/dualhbar.cpp:
+
+../cppdemo/dualxaxis/dualxaxis.cpp:
+
+../cppdemo/dualyaxis/dualyaxis.cpp:
+
+../cppdemo/enhancedarea/enhancedarea.cpp:
+
+../cppdemo/errline/errline.cpp:
+
+../cppdemo/explodedpie/explodedpie.cpp:
+
+../cppdemo/finance/finance.cpp:
+
+../include/FinanceChart.h:
+
+../include/chartdir.h:
+
+/usr/include/c++/9/vector:
+
+/usr/include/c++/9/bits/stl_construct.h:
+
+/usr/include/c++/9/bits/stl_uninitialized.h:
+
+/usr/include/c++/9/bits/stl_vector.h:
+
+/usr/include/c++/9/bits/stl_bvector.h:
+
+/usr/include/c++/9/bits/vector.tcc:
+
+../cppdemo/finance2/finance2.cpp:
+
+../cppdemo/financesymbols/financesymbols.cpp:
+
+../cppdemo/floatingbox/floatingbox.cpp:
+
+../cppdemo/fontpie/fontpie.cpp:
+
+../cppdemo/fontxy/fontxy.cpp:
+
+../cppdemo/fourq/fourq.cpp:
+
+../cppdemo/funnel/funnel.cpp:
+
+../cppdemo/gantt/gantt.cpp:
+
+../cppdemo/gapbar/gapbar.cpp:
+
+../cppdemo/glasslightbar/glasslightbar.cpp:
+
+../cppdemo/glassmultibar/glassmultibar.cpp:
+
+../cppdemo/gradientbar/gradientbar.cpp:
+
+../cppdemo/gradientmultibar/gradientmultibar.cpp:
+
+../cppdemo/hbar/hbar.cpp:
+
+../cppdemo/hbarmeter/hbarmeter.cpp:
+
+../cppdemo/hbarmeterorientation/hbarmeterorientation.cpp:
+
+../cppdemo/hboxwhisker/hboxwhisker.cpp:
+
+../cppdemo/histogram/histogram.cpp:
+
+../cppdemo/hlinearmeter/hlinearmeter.cpp:
+
+../cppdemo/hlinearmeterorientation/hlinearmeterorientation.cpp:
+
+../cppdemo/hloc/hloc.cpp:
+
+../cppdemo/iconameter/iconameter.cpp:
+
+../cppdemo/icondonut/icondonut.cpp:
+
+../cppdemo/iconpie/iconpie.cpp:
+
+../cppdemo/iconpie2/iconpie2.cpp:
+
+../cppdemo/layergantt/layergantt.cpp:
+
+../cppdemo/legendpie/legendpie.cpp:
+
+../cppdemo/legendpie2/legendpie2.cpp:
+
+../cppdemo/linearzonemeter/linearzonemeter.cpp:
+
+../cppdemo/linecompare/linecompare.cpp:
+
+../cppdemo/linefill/linefill.cpp:
+
+../cppdemo/logaxis/logaxis.cpp:
+
+../cppdemo/markbar/markbar.cpp:
+
+../cppdemo/markzone/markzone.cpp:
+
+../cppdemo/markzone2/markzone2.cpp:
+
+../cppdemo/missingpoints/missingpoints.cpp:
+
+../cppdemo/multiaxes/multiaxes.cpp:
+
+../cppdemo/multibar/multibar.cpp:
+
+../cppdemo/multicylinder/multicylinder.cpp:
+
+../cppdemo/multidepthpie/multidepthpie.cpp:
+
+../cppdemo/multihmeter/multihmeter.cpp:
+
+../cppdemo/multiline/multiline.cpp:
+
+../cppdemo/multiline2/multiline2.cpp:
+
+../cppdemo/multipie/multipie.cpp:
+
+../cppdemo/multiradar/multiradar.cpp:
+
+../cppdemo/multishapebar/multishapebar.cpp:
+
+../cppdemo/multistackbar/multistackbar.cpp:
+
+../cppdemo/multisymbolline/multisymbolline.cpp:
+
+../cppdemo/multivmeter/multivmeter.cpp:
+
+../cppdemo/neonroundmeter/neonroundmeter.cpp:
+
+../cppdemo/overlapbar/overlapbar.cpp:
+
+../cppdemo/paramcurve/paramcurve.cpp:
+
+../cppdemo/pareto/pareto.cpp:
+
+../cppdemo/patternarea/patternarea.cpp:
+
+../cppdemo/percentarea/percentarea.cpp:
+
+../cppdemo/percentbar/percentbar.cpp:
+
+../cppdemo/pieshading/pieshading.cpp:
+
+../cppdemo/polararea/polararea.cpp:
+
+../cppdemo/polarbubble/polarbubble.cpp:
+
+../cppdemo/polarline/polarline.cpp:
+
+../cppdemo/polarscatter/polarscatter.cpp:
+
+../cppdemo/polarspline/polarspline.cpp:
+
+../cppdemo/polarvector/polarvector.cpp:
+
+../cppdemo/polarzones/polarzones.cpp:
+
+../cppdemo/polarzones2/polarzones2.cpp:
+
+../cppdemo/polygonbar/polygonbar.cpp:
+
+../cppdemo/posnegbar/posnegbar.cpp:
+
+../cppdemo/posnegwaterfall/posnegwaterfall.cpp:
+
+../cppdemo/pyramidelevation/pyramidelevation.cpp:
+
+../cppdemo/pyramidgap/pyramidgap.cpp:
+
+../cppdemo/pyramidrotation/pyramidrotation.cpp:
+
+../cppdemo/rectangularmeter/rectangularmeter.cpp:
+
+../cppdemo/rose/rose.cpp:
+
+../cppdemo/rotatedarea/rotatedarea.cpp:
+
+../cppdemo/rotatedline/rotatedline.cpp:
+
+../cppdemo/rotatedpyramid/rotatedpyramid.cpp:
+
+../cppdemo/roundmeter/roundmeter.cpp:
+
+../cppdemo/roundmeterreadout/roundmeterreadout.cpp:
+
+../cppdemo/scatter/scatter.cpp:
+
+../cppdemo/scattercontour/scattercontour.cpp:
+
+../cppdemo/scatterlabels/scatterlabels.cpp:
+
+../cppdemo/scattersurface/scattersurface.cpp:
+
+../cppdemo/scattersymbols/scattersymbols.cpp:
+
+../cppdemo/scattertrend/scattertrend.cpp:
+
+../cppdemo/semicirclemeter/semicirclemeter.cpp:
+
+../cppdemo/semicirclemeterreadout/semicirclemeterreadout.cpp:
+
+../cppdemo/shadowpie/shadowpie.cpp:
+
+../cppdemo/sidelabelpie/sidelabelpie.cpp:
+
+../cppdemo/simplearea/simplearea.cpp:
+
+../cppdemo/simplebar/simplebar.cpp:
+
+../cppdemo/simplebar2/simplebar2.cpp:
+
+../cppdemo/simpleline/simpleline.cpp:
+
+../cppdemo/simplepie/simplepie.cpp:
+
+../cppdemo/simplepyramid/simplepyramid.cpp:
+
+../cppdemo/simpleradar/simpleradar.cpp:
+
+../cppdemo/smoothcontour/smoothcontour.cpp:
+
+../cppdemo/softlightbar/softlightbar.cpp:
+
+../cppdemo/softmultibar/softmultibar.cpp:
+
+../cppdemo/splineline/splineline.cpp:
+
+../cppdemo/squareameter/squareameter.cpp:
+
+../cppdemo/stackedarea/stackedarea.cpp:
+
+../cppdemo/stackedbar/stackedbar.cpp:
+
+../cppdemo/stackradar/stackradar.cpp:
+
+../cppdemo/stackrose/stackrose.cpp:
+
+../cppdemo/stepline/stepline.cpp:
+
+../cppdemo/surface/surface.cpp:
+
+../cppdemo/surface2/surface2.cpp:
+
+../cppdemo/surface3/surface3.cpp:
+
+../cppdemo/surfaceaxis/surfaceaxis.cpp:
+
+../cppdemo/surfacelighting/surfacelighting.cpp:
+
+../cppdemo/surfaceperspective/surfaceperspective.cpp:
+
+../cppdemo/surfaceshading/surfaceshading.cpp:
+
+../cppdemo/surfacewireframe/surfacewireframe.cpp:
+
+../cppdemo/symbolline/symbolline.cpp:
+
+../cppdemo/symbolline2/symbolline2.cpp:
+
+../cppdemo/texturedonut/texturedonut.cpp:
+
+../cppdemo/threedanglepie/threedanglepie.cpp:
+
+../cppdemo/threedarea/threedarea.cpp:
+
+../cppdemo/threedbar/threedbar.cpp:
+
+../cppdemo/threedbubble/threedbubble.cpp:
+
+../cppdemo/threedbubble2/threedbubble2.cpp:
+
+../cppdemo/threedbubble3/threedbubble3.cpp:
+
+../cppdemo/threeddepthpie/threeddepthpie.cpp:
+
+../cppdemo/threeddonut/threeddonut.cpp:
+
+../cppdemo/threeddonutshading/threeddonutshading.cpp:
+
+../cppdemo/threedline/threedline.cpp:
+
+../cppdemo/threedpie/threedpie.cpp:
+
+../cppdemo/threedpieshading/threedpieshading.cpp:
+
+../cppdemo/threedpyramid/threedpyramid.cpp:
+
+../cppdemo/threedscatter/threedscatter.cpp:
+
+../cppdemo/threedscatter2/threedscatter2.cpp:
+
+../cppdemo/threedscatteraxis/threedscatteraxis.cpp:
+
+../cppdemo/threedscattergroups/threedscattergroups.cpp:
+
+../cppdemo/threedstackarea/threedstackarea.cpp:
+
+../cppdemo/ticks/ticks.cpp:
+
+../cppdemo/trendline/trendline.cpp:
+
+../cppdemo/unevenpoints/unevenpoints.cpp:
+
+../cppdemo/varwidthbar/varwidthbar.cpp:
+
+../cppdemo/vbarmeter/vbarmeter.cpp:
+
+../cppdemo/vbarmeterorientation/vbarmeterorientation.cpp:
+
+../cppdemo/vector/vector.cpp:
+
+../cppdemo/vlinearmeter/vlinearmeter.cpp:
+
+../cppdemo/vlinearmeterorientation/vlinearmeterorientation.cpp:
+
+../cppdemo/waterfall/waterfall.cpp:
+
+../cppdemo/whitehbarmeter/whitehbarmeter.cpp:
+
+../cppdemo/whitehlinearmeter/whitehlinearmeter.cpp:
+
+../cppdemo/whiteroundmeter/whiteroundmeter.cpp:
+
+../cppdemo/whitesemicirclemeter/whitesemicirclemeter.cpp:
+
+../cppdemo/whitevbarmeter/whitevbarmeter.cpp:
+
+../cppdemo/whitevlinearmeter/whitevlinearmeter.cpp:
+
+../cppdemo/xyline/xyline.cpp:
+
+../cppdemo/xzonecolor/xzonecolor.cpp:
+
+../cppdemo/yzonecolor/yzonecolor.cpp:

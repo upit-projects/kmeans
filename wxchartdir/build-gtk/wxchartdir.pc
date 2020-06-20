@@ -1,0 +1,15 @@
+# Package Information for pkg-config
+
+prefix=/usr/local
+exec_prefix=${prefix}
+includedir=${prefix}/include
+libdir=${exec_prefix}/lib
+wxver=3.0
+
+Name: wxchartdir-3.0
+Description: wxChartDir Chart viewer for ChartDirector for use in programs based on wxWidgets
+URL: https://github.com/utelle/wxchartdir/
+Version: 1.0.0
+Cflags: -I${includedir}
+Libs: -L${libdir} -lwxcode_gtk3u_wxchartdir-3.0 -lchartdir
+Libs.private: -lpthread
